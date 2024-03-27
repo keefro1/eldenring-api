@@ -1,0 +1,17 @@
+{
+  "unversionedId": "start",
+  "id": "start",
+  "isDocsHomePage": false,
+  "title": "Elden Ring API",
+  "description": "Elden Ring Hero",
+  "source": "@site/docs/start.md",
+  "slug": "/",
+  "permalink": "/docs/",
+  "version": "current",
+  "sidebar_label": "Getting Started",
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "Ammos Route",
+    "permalink": "/docs/ammos"
+  }
+}
